@@ -1,5 +1,6 @@
 # Taken from the concept of spanning tree and the concept of BFS
-# Breadth First Search Algorithm.
+# Breadth First Search Algorithm. - We use Dijkstra's algorithm as
+# an example...below.
 # https://www.sciencedirect.com/topics/engineering/spanning-tree
 
 # 1. Mark all nodes and unvisited and store them
